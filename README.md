@@ -2,4 +2,4 @@
 
 ## In mijn gym kan je springen en fallen uittesten; en je kan proberen om in de bovenste container te komen
 
-![ScreenshotGym](/UnityGameScene-GymHNR.png)
+![ScreenshotGym](/UnityGameScene-Gym.png)
